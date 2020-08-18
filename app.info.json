@@ -1,11 +1,11 @@
 {
   "app_name": "commit-tracker",
-  "src_hash": "077d08f79b7498a5afd0019998f6c695fa9a2968",
+  "src_hash": "80107b8be7b9eb262a707746c0710f3e2565ebbc",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "15",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/commit-tracker-frontend/builds/717553594"
+    "build_number": "24",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/commit-tracker-frontend/builds/718853496"
   }
 }
