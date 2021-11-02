@@ -1,1 +1,10 @@
-{}
+{
+    "commitTracker": {
+        "entry": [
+            "/beta/apps/commit-tracker/commitTracker.2b5782a1ea44191916b2.js"
+        ],
+        "modules": [
+            "/beta/apps/commit-tracker/js/412.bfab9c34c7a550c4cc1e.js"
+        ]
+    }
+}
