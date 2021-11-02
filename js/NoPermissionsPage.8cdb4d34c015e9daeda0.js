@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcommit_tracker=self.webpackChunkcommit_tracker||[]).push([[452],{53963:(e,t,r)=>{r.r(t),r.d(t,{default:()=>i});var a=r(93264),c=r.n(a),n=r(73685),u=r(63383);const i=(0,n.withRouter)((function(){return c().createElement(u.Main,null,c().createElement(u.NotAuthorized,{serviceName:"Sample app"}))}))}}]);
+//# sourceMappingURL=../sourcemaps/NoPermissionsPage.e0964a8a002123fc126296ed9ff9903a.js.map
